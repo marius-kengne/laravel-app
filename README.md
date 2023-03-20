@@ -1,2 +1,2 @@
 # laravel-app
-template admin LTE pour projet Laravel
+Frontend application for my template that using PHP with Laravel
